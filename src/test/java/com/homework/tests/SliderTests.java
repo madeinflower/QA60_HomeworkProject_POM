@@ -1,7 +1,7 @@
 package com.homework.tests;
 
 import com.homework.pages.HomePage;
-import com.homework.pages.SliderPage;
+import com.homework.pages.widgets.SliderPage;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 

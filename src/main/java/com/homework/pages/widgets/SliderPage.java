@@ -1,12 +1,13 @@
-package com.homework.pages;
+package com.homework.pages.widgets;
 
+import com.homework.pages.BasePage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.testng.Assert;
 
-public class SliderPage extends BasePage{
+public class SliderPage extends BasePage {
     public SliderPage(WebDriver driver) {
         super(driver);
     }

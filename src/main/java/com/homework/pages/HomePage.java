@@ -24,4 +24,12 @@ public class HomePage extends BasePage{
         click(horizontalSlider);
         return this;
     }
+
+    @FindBy(css = "a[href='/hovers']")
+    WebElement hovers;
+
+    public HomePage openHoversPage() {
+        click(hovers);
+        return this;
+    }
 }
