@@ -26,7 +26,6 @@ public class HoversTests extends TestBase{
         };
     }
 
-
     @Test(dataProvider = "hoverData")
     public void hoverUserTest(int index, String expectedName, String expectedLinkText) {
         hoversPage.hoverToUser(index)

@@ -14,10 +14,6 @@ public class AlertsPage extends BasePage{
         super(driver);
     }
 
-
-
-
-
     @FindBy(css = "button[onclick='jsAlert()']")
     WebElement jsAlertButton;
 

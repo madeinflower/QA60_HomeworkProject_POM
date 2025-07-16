@@ -32,4 +32,31 @@ public class HomePage extends BasePage{
         click(hovers);
         return this;
     }
+
+    @FindBy(css = "a[href='/context_menu']")
+    WebElement contextMenu;
+
+    public HomePage openContextMenuPage() {
+        click(contextMenu);
+        return this;
+    }
+
+    @FindBy(css = "a[href='/dropdown']")
+    WebElement dropDown;
+
+    public HomePage openDropDownPage() {
+        click(dropDown);
+        return this;
+    }
+
+    @FindBy(css = "a[href='/drag_and_drop']")
+    WebElement dragAndDrop;
+
+    public HomePage openDragAndDropPage() {
+        click(dragAndDrop);
+        return this;
+    }
+
+
+
 }
