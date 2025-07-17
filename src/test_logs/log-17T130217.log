@@ -1,0 +1,21 @@
+13:02:17.780 [main] INFO  org.testng.internal.Utils -%PARSER_ERROR[kvp]- [TestNG] Running:
+  C:\Users\Tetiana\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+13:02:21.998 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Start test: fileUploadTest
+13:02:22.018 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: a[href='/upload']
+13:02:22.019 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+13:02:22.042 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: a[href='/upload']
+13:02:22.042 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+13:02:22.459 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: #file-upload
+13:02:22.459 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+13:02:22.485 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: #file-upload
+13:02:22.486 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+13:02:22.528 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: #file-submit
+13:02:22.528 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+13:02:22.550 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: #file-submit
+13:02:22.550 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+13:02:22.592 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.xpath: //h3[normalize-space()='File Uploaded!']
+13:02:22.592 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+13:02:23.790 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.xpath: //h3[normalize-space()='File Uploaded!']
+13:02:23.791 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+13:02:23.814 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED fileUploadTest

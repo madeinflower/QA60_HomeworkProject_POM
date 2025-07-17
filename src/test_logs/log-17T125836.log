@@ -1,0 +1,27 @@
+12:58:36.985 [main] INFO  org.testng.internal.Utils -%PARSER_ERROR[kvp]- [TestNG] Running:
+  C:\Users\Tetiana\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+12:58:40.450 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Start test: fileUploadTest
+12:58:40.465 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: a[href='/upload']
+12:58:40.465 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:58:40.489 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: a[href='/upload']
+12:58:40.490 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:58:40.803 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: file-upload
+12:58:40.803 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:58:43.713 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Test has a problem
+12:58:43.713 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:58:43.713 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Method --> findElement
+12:58:43.713 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:58:43.714 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- TargetException --> org.openqa.selenium.NoSuchSessionException: invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=138.0.7204.98)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [831701e286154b3e6709eb6e11e47c9e, findElement {value=file-upload, using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.98, chrome: {chromedriverVersion: 138.0.7204.97 (14f98e519099..., userDataDir: C:\Users\Tetiana\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56832}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56832/devtoo..., se:cdpVersion: 138.0.7204.98, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 831701e286154b3e6709eb6e11e47c9e
+12:58:43.714 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:58:43.714 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Object target --> ChromeDriver: chrome on windows (831701e286154b3e6709eb6e11e47c9e)
+12:58:43.714 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:58:43.766 [main] ERROR com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Test result: FAILED fileUploadTest

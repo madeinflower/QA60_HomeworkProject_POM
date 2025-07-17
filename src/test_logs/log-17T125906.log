@@ -1,0 +1,17 @@
+12:59:07.232 [main] INFO  org.testng.internal.Utils -%PARSER_ERROR[kvp]- [TestNG] Running:
+  C:\Users\Tetiana\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+12:59:10.547 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Start test: fileUploadTest
+12:59:10.562 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: a[href='/upload']
+12:59:10.563 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:59:10.586 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: a[href='/upload']
+12:59:10.586 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:59:10.886 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: #file-upload
+12:59:10.887 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:59:10.909 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: #file-upload
+12:59:10.909 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:59:10.959 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: #file-submit
+12:59:10.960 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:59:10.981 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: #file-submit
+12:59:10.981 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:59:11.862 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED fileUploadTest
