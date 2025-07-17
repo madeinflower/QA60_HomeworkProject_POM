@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="user" verbose="1">
+    <test name="user">
+        <classes>
+            <class name="com.homework.tests.AlertTests"/>
+            <class name="com.homework.tests.ContextMenuTests"/>
+            <class name="com.homework.tests.DragAndDropTests"/>
+            <class name="com.homework.tests.DropDownTests"/>
+            <class name="com.homework.tests.HoversTests"/>
+            <class name="com.homework.tests.SliderTests"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,13 @@
+12:42:47.875 [main] INFO  org.testng.internal.Utils -%PARSER_ERROR[kvp]- [TestNG] Running:
+  C:\Users\Tetiana\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+12:42:51.713 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Start test: clickForJSAlertTest
+12:42:51.772 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: a[href='/javascript_alerts']
+12:42:51.773 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:42:51.839 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: a[href='/javascript_alerts']
+12:42:51.840 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:42:52.123 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: button[onclick='jsAlert()']
+12:42:52.124 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:42:52.157 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: button[onclick='jsAlert()']
+12:42:52.157 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:42:52.239 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED clickForJSAlertTest

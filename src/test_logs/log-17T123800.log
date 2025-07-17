@@ -1,0 +1,233 @@
+12:38:00.774 [main] INFO  org.testng.internal.Utils -%PARSER_ERROR[kvp]- [TestNG] Running:
+  C:\Users\Tetiana\Documents\AIT\QA\QA60_HomeworkProject_POM\src\test\resources\testng.xml
+
+12:38:04.855 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Start test: clickForJSAlertTest
+12:38:04.886 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: a[href='/javascript_alerts']
+12:38:04.886 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:04.951 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: a[href='/javascript_alerts']
+12:38:04.953 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:05.253 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: button[onclick='jsAlert()']
+12:38:05.254 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:05.273 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: button[onclick='jsAlert()']
+12:38:05.273 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:05.358 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED clickForJSAlertTest
+12:38:08.648 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Start test: clickForJSConfirmCancelTest
+12:38:08.651 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: a[href='/javascript_alerts']
+12:38:08.651 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:08.693 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: a[href='/javascript_alerts']
+12:38:08.693 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:08.984 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: button[onclick='jsConfirm()']
+12:38:08.984 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:09.008 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: button[onclick='jsConfirm()']
+12:38:09.008 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:09.088 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.xpath: //p[@id='result']
+12:38:09.088 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:09.115 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.xpath: //p[@id='result']
+12:38:09.115 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:09.129 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED clickForJSConfirmCancelTest
+12:38:12.230 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Start test: sendMessageToAlert
+12:38:12.235 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: a[href='/javascript_alerts']
+12:38:12.237 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:12.277 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: a[href='/javascript_alerts']
+12:38:12.277 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:12.548 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: button[onclick='jsPrompt()']
+12:38:12.548 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:12.582 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: button[onclick='jsPrompt()']
+12:38:12.582 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:12.692 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.xpath: //p[@id='result']
+12:38:12.692 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:12.709 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.xpath: //p[@id='result']
+12:38:12.709 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:12.722 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED sendMessageToAlert
+12:38:15.741 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Start test: rightClickContextMenuTest
+12:38:15.750 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: a[href='/context_menu']
+12:38:15.750 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:15.792 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: a[href='/context_menu']
+12:38:15.793 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:16.116 [Forwarding actions on session 830acc1f445fa491d96cd57d1d4ddc4f to remote] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: hot-spot
+12:38:16.116 [Forwarding actions on session 830acc1f445fa491d96cd57d1d4ddc4f to remote] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:16.142 [Forwarding actions on session 830acc1f445fa491d96cd57d1d4ddc4f to remote] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: hot-spot
+12:38:16.142 [Forwarding actions on session 830acc1f445fa491d96cd57d1d4ddc4f to remote] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:16.303 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED rightClickContextMenuTest
+12:38:19.179 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Start test: testDragAndDropWithActions
+12:38:19.180 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: a[href='/drag_and_drop']
+12:38:19.180 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:19.219 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: a[href='/drag_and_drop']
+12:38:19.219 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:20.505 [Forwarding actions on session 50c1c0ba0fc6177b0080f68f241edac2 to remote] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: column-a
+12:38:20.505 [Forwarding actions on session 50c1c0ba0fc6177b0080f68f241edac2 to remote] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:20.517 [Forwarding actions on session 50c1c0ba0fc6177b0080f68f241edac2 to remote] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: column-a
+12:38:20.517 [Forwarding actions on session 50c1c0ba0fc6177b0080f68f241edac2 to remote] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:20.517 [Forwarding actions on session 50c1c0ba0fc6177b0080f68f241edac2 to remote] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: column-b
+12:38:20.517 [Forwarding actions on session 50c1c0ba0fc6177b0080f68f241edac2 to remote] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:20.528 [Forwarding actions on session 50c1c0ba0fc6177b0080f68f241edac2 to remote] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: column-b
+12:38:20.528 [Forwarding actions on session 50c1c0ba0fc6177b0080f68f241edac2 to remote] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:20.776 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: #column-a header
+12:38:20.776 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:20.789 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: #column-a header
+12:38:20.789 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:20.801 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: #column-b header
+12:38:20.801 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:20.830 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: #column-b header
+12:38:20.830 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:20.840 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED testDragAndDropWithActions
+12:38:23.989 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Start test: option1SelectTest
+12:38:23.993 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: a[href='/dropdown']
+12:38:23.994 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:24.029 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: a[href='/dropdown']
+12:38:24.029 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:24.406 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+12:38:24.407 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:24.422 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+12:38:24.422 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:24.429 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+12:38:24.429 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:24.443 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+12:38:24.443 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:24.448 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+12:38:24.448 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:24.459 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+12:38:24.459 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:24.471 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+12:38:24.472 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:24.482 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+12:38:24.482 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:24.548 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+12:38:24.548 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:24.590 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+12:38:24.590 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:24.598 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+12:38:24.598 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:24.612 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+12:38:24.612 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:24.616 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+12:38:24.617 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:24.627 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+12:38:24.627 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:24.683 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED option1SelectTest
+12:38:27.676 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Start test: option2SelectTest
+12:38:27.679 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: a[href='/dropdown']
+12:38:27.679 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:27.754 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: a[href='/dropdown']
+12:38:27.754 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:28.031 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+12:38:28.031 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:28.048 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+12:38:28.048 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:28.058 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+12:38:28.058 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:28.068 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+12:38:28.068 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:28.074 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+12:38:28.074 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:28.083 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+12:38:28.083 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:28.095 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+12:38:28.095 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:28.104 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+12:38:28.104 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:28.162 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+12:38:28.162 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:28.176 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+12:38:28.176 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:28.185 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+12:38:28.185 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:28.197 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+12:38:28.197 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:28.205 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: dropdown
+12:38:28.207 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:28.216 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: dropdown
+12:38:28.216 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:28.274 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED option2SelectTest
+12:38:31.154 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Start test: hoverUserTest
+12:38:31.156 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: a[href='/hovers']
+12:38:31.157 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:31.183 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: a[href='/hovers']
+12:38:31.184 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:31.519 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Before Find ElementsBy.xpath: (//img[@alt='User Avatar'])
+12:38:31.519 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:31.546 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- List size is 3
+12:38:31.546 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:32.191 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Before Find ElementsBy.xpath: (//div[@class='figcaption']/h5)
+12:38:32.191 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:32.218 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- List size is 3
+12:38:32.218 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:32.232 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Before Find ElementsBy.xpath: (//div[@class='figcaption']/h5)
+12:38:32.232 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:32.251 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- List size is 3
+12:38:32.251 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:32.263 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Before Find ElementsBy.xpath: (//div[@class='figcaption']/a)
+12:38:32.263 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:32.285 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- List size is 3
+12:38:32.285 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:32.294 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Before Find ElementsBy.xpath: (//div[@class='figcaption']/a)
+12:38:32.295 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:32.312 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- List size is 3
+12:38:32.312 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:32.323 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED hoverUserTest
+12:38:35.138 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Start test: hoverUserTest
+12:38:35.144 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: a[href='/hovers']
+12:38:35.144 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:35.186 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: a[href='/hovers']
+12:38:35.187 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:35.573 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Before Find ElementsBy.xpath: (//img[@alt='User Avatar'])
+12:38:35.573 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:35.597 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- List size is 3
+12:38:35.597 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:36.227 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Before Find ElementsBy.xpath: (//div[@class='figcaption']/h5)
+12:38:36.227 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:36.248 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- List size is 3
+12:38:36.248 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:36.262 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Before Find ElementsBy.xpath: (//div[@class='figcaption']/h5)
+12:38:36.262 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:36.277 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- List size is 3
+12:38:36.278 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:36.297 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Before Find ElementsBy.xpath: (//div[@class='figcaption']/a)
+12:38:36.299 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:36.320 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- List size is 3
+12:38:36.320 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:36.332 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Before Find ElementsBy.xpath: (//div[@class='figcaption']/a)
+12:38:36.332 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:36.348 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- List size is 3
+12:38:36.348 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:36.357 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED hoverUserTest
+12:38:39.308 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Start test: hoverUserTest
+12:38:39.311 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: a[href='/hovers']
+12:38:39.311 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:39.358 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: a[href='/hovers']
+12:38:39.358 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:39.720 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Before Find ElementsBy.xpath: (//img[@alt='User Avatar'])
+12:38:39.720 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:39.756 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- List size is 3
+12:38:39.756 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:40.402 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Before Find ElementsBy.xpath: (//div[@class='figcaption']/h5)
+12:38:40.402 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:40.422 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- List size is 3
+12:38:40.422 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:40.433 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Before Find ElementsBy.xpath: (//div[@class='figcaption']/h5)
+12:38:40.434 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:40.451 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- List size is 3
+12:38:40.451 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:40.463 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Before Find ElementsBy.xpath: (//div[@class='figcaption']/a)
+12:38:40.463 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:40.482 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- List size is 3
+12:38:40.482 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:40.488 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- Before Find ElementsBy.xpath: (//div[@class='figcaption']/a)
+12:38:40.488 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:40.503 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- List size is 3
+12:38:40.503 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:40.510 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED hoverUserTest
+12:38:43.472 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Start test: sliderTest
+12:38:43.473 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.cssSelector: a[href='/horizontal_slider']
+12:38:43.473 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:43.583 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.cssSelector: a[href='/horizontal_slider']
+12:38:43.583 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:44.898 [Forwarding actions on session 97f94192622ac284aedc57b7c7ee4719 to remote] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.xpath: //input
+12:38:44.898 [Forwarding actions on session 97f94192622ac284aedc57b7c7ee4719 to remote] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:44.911 [Forwarding actions on session 97f94192622ac284aedc57b7c7ee4719 to remote] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.xpath: //input
+12:38:44.911 [Forwarding actions on session 97f94192622ac284aedc57b7c7ee4719 to remote] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:45.303 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator will find By.id: range
+12:38:45.303 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:45.320 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- The locator is By.id: range
+12:38:45.320 [main] INFO  com.homework.utils.MyListener -%PARSER_ERROR[kvp]- *********************************
+12:38:45.338 [main] INFO  com.homework.tests.TestBase -%PARSER_ERROR[kvp]- Test result: PASSED sliderTest

@@ -2,7 +2,6 @@ package com.homework.tests;
 
 import com.homework.pages.HomePage;
 import com.homework.pages.interactions.DragAndDropPage;
-import com.homework.pages.interactions.DropDownPage;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
