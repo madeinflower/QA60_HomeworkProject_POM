@@ -9,6 +9,7 @@
             <class name="com.homework.tests.DropDownTests"/>
             <class name="com.homework.tests.HoversTests"/>
             <class name="com.homework.tests.SliderTests"/>
+            <class name="com.homework.tests.UploadFilesTests"/>
         </classes>
     </test>
 </suite>

@@ -31,7 +31,6 @@
             <version>1.2.11</version>
         </dependency>
     </dependencies>
-
     <build>
         <testResources>
             <testResource>
@@ -54,6 +53,7 @@
                 <version>3.0.0-M7</version>
                 <configuration>
                     <suiteXmlFiles>
+                        <suiteXmlFile>src/test/resources/textBox.xml</suiteXmlFile>
                         <suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     <systemPropertyVariables>
@@ -72,5 +72,6 @@
             </plugin>
         </plugins>
     </build>
+
 
 </project>
